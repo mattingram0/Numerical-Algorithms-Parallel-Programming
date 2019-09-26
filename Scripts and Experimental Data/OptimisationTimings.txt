@@ -1,0 +1,27 @@
+---------- Loop the Zeros the Force Array ----------
+(Parallel)
+Nested Loop: 
+28.389169
+28.470374
+
+Nested Loop with Optimisations (-O3): 
+23.992464
+24.515006
+
+Loop Unravelled:
+30.112533
+30.570223
+
+Loop Unravelled with Optimisations (-O3):
+24.275047
+25.017309
+
+(Serial)
+Nested Loop:
+137.061189
+145.11520
+
+Nested Loop with Optimisations (-O3):
+44.810684
+44.020771
+
